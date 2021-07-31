@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ziarah</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Masuk</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="action_sign_in_google">Masuk dengan akun Google</string>
+    <string name="action_sign_in_facebook">Masuk dengan akun Facebook</string>
+    <string name="action_regis">Daftar dengan email</string>
+    <string name="password_forgot">Lupa Password</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_daftar">Daftar</string>
+</resources>
